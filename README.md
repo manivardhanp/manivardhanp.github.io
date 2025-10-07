@@ -1,4 +1,4 @@
-# MANI VARDHAN REDDY PAPAGARI  
+## MANI VARDHAN REDDY PAPAGARI  
 📍 Hyderabad • 📞 9121471194 • ✉️ [manivardhanreddy82@gmail.com](mailto:manivardhanreddy82@gmail.com)
 
 ---
