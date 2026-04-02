@@ -4,7 +4,7 @@
 ---
 
 ## SUMMARY  
-Software Engineer with **4.2 years of experience** specializing in **web application development, backend services, API design, and system integrations**. Proficient in **C#**, **.NET Core**, and **Azure**, with a proven track record of building scalable, secure, and efficient enterprise solutions. Experienced in collaborating directly with customers, defining requirements, designing workflows, and ensuring timely technical implementation that meets business goals.
+Software Engineer with **4.7 years of experience** specializing in **web application development, backend services, API design, and system integrations**. Proficient in **C#**, **.NET Core**, and **Azure**, with a proven track record of building scalable, secure, and efficient enterprise solutions. Experienced in collaborating directly with customers, defining requirements, designing workflows, and ensuring timely technical implementation that meets business goals.
 
 ---
 
