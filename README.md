@@ -20,6 +20,7 @@ Software Engineer with **5 years of experience** specializing in **web applicati
 - Optimized API throughput through **asynchronous programming** using `async/await` and **Task Parallel Library (TPL)**.
 - Engineered an asynchronous API **polling mechanism** for long-running background tasks, returning non-blocking HTTP status codes (202 Accepted) to prevent UI timeouts.
 - Enhanced database throughput by optimizing **LINQ queries** and creating non-clustered indexes on frequently queried columns.
+- Architected and deployed stateful, long-running background workflows using **Azure Durable Functions**, ensuring resilient execution and automatic state management.
 - Leveraged **Microsoft Azure services** for scalable cloud integrations and backend automation:  
   - **Azure Functions:** Built serverless, event-driven processes to reduce infrastructure overhead.  
   - **Azure Key Vault:** Secured secrets, connection strings, and certificates for improved compliance.  
