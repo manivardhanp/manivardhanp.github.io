@@ -42,6 +42,9 @@ Software Engineer with **5 years of experience** specializing in **web applicati
 - Integrated **Twilio** to automate email notifications for insureds and underwriters post-event.  
 - Managed **Jira administration**, **Git branching**, and created detailed technical documentation for internal team use.  
 
+
+
+
 ---
 ## Personal Project
 ### *Facial Emotion Recognition (Python / Computer Vision)*
