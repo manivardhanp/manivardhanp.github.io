@@ -4,7 +4,7 @@
 ---
 
 ## SUMMARY  
-Software Engineer with **4.7 years of experience** specializing in **web application development, backend services, API design, and system integrations**. Proficient in **C#**, **.NET Core**, and **Azure**, with a proven track record of building scalable, secure, and efficient enterprise solutions. Experienced in collaborating directly with customers, defining requirements, designing workflows, and ensuring timely technical implementation that meets business goals.
+Software Engineer with **5 years of experience** specializing in **web application development, backend services, API design, and system integrations**. Proficient in **C#**, **.NET Core**, and **Azure**, with a proven track record of building scalable, secure, and efficient enterprise solutions. Experienced in collaborating directly with customers, defining requirements, designing workflows, and ensuring timely technical implementation that meets business goals. Adept at applying robust Object-Oriented Programming (OOP) principles, and modern design patterns to solve complex business.
 
 ---
 
@@ -14,14 +14,16 @@ Software Engineer with **4.7 years of experience** specializing in **web applica
 📅 *Nov 2024 – Present*  
 - Developed an **Azure Logic App** to capture user-input data from Excel, store it in a database, and display it seamlessly on the UI.  
 - Designed and deployed **end-to-end interfaces** connecting planning tools with downstream systems to ensure data accuracy and operational efficiency.  
-- Built and maintained **high-performance RESTful APIs** using **C#** and **ASP.NET Web API**, following best practices for scalability, security, and maintainability.  
+- Built and maintained **high-performance RESTful APIs** using **C#** and **.NET Core Web API**, following best practices for scalability, security, and maintainability.  
 - Implemented robust **error handling** and **centralized logging** with **Application Insights**, improving maintainability and simplifying troubleshooting.  
 - Enhanced reliability by writing **unit and integration tests** using **xUnit** and **bUnit**, ensuring code quality across CI/CD pipelines.  
-- Optimized API throughput through **asynchronous programming** using `async/await` and **Task Parallel Library (TPL)**.  
+- Optimized API throughput through **asynchronous programming** using `async/await` and **Task Parallel Library (TPL)**.
+- Engineered an asynchronous API **polling mechanism** for long-running background tasks, returning non-blocking HTTP status codes (202 Accepted) to prevent UI timeouts.
+- Enhanced database throughput by optimizing **LINQ queries** and creating non-clustered indexes on frequently queried columns.
 - Leveraged **Microsoft Azure services** for scalable cloud integrations and backend automation:  
   - **Azure Functions:** Built serverless, event-driven processes to reduce infrastructure overhead.  
   - **Azure Key Vault:** Secured secrets, connection strings, and certificates for improved compliance.  
-  - **Automation:** Combined **Logic Apps**, **Azure Functions**, and **Event Grid** to streamline workflows and reduce manual intervention.  
+  - **Automation:** Combined **Logic Apps**, **Azure Functions** to streamline workflows and reduce manual intervention.  
 
 ---
 
@@ -38,6 +40,13 @@ Software Engineer with **4.7 years of experience** specializing in **web applica
 - Developed an **auto-cancellation feature** to identify and cancel overdue or unpaid policies daily.  
 - Integrated **Twilio** to automate email notifications for insureds and underwriters post-event.  
 - Managed **Jira administration**, **Git branching**, and created detailed technical documentation for internal team use.  
+
+---
+## Personal Project
+### *Facial Emotion Recognition (Python / Computer Vision)*
+- **Developed a real-time computer vision application** using Python and OpenCV to capture, decode, and process live video streams directly from a local webcam.
+- **Implemented facial detection** and localization by utilizing Haar Cascade classifiers to rapidly identify and extract Regions of Interest (ROI) from continuous video frames.
+- **Integrated the DeepFace neural network** library to classify dominant emotions on the fly, rendering predictive text labels and bounding boxes onto the live video feed with minimal latency.
 
 ---
 
