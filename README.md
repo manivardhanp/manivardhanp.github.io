@@ -40,9 +40,8 @@ Software Engineer with **5 years of experience** specializing in **web applicati
 - Constructed a **mapping layer** between front-end and back-end systems, improving API response times by 3 seconds.  
 - Developed an **auto-cancellation feature** to identify and cancel overdue or unpaid policies daily.  
 - Integrated **Twilio** to automate email notifications for insureds and underwriters post-event.  
-- Managed **Jira administration**, **Git branching**, and created detailed technical documentation for internal team use.  
-
-<br/><br/>
+- Managed **Jira administration**, **Git branching**, and created detailed technical documentation for internal team use.
+  
 <br/><br/>
 
 ---
