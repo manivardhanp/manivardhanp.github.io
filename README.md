@@ -44,7 +44,8 @@ Software Engineer with **5 years of experience** specializing in **web applicati
 
 
 
-
+<br/><br/>
+<br/><br/>
 ---
 ## Personal Project
 ### *Facial Emotion Recognition (Python / Computer Vision)*
