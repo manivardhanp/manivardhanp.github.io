@@ -10,8 +10,9 @@ Software Engineer with **5 years of experience** specializing in **web applicati
 
 ## WORK EXPERIENCE  
 
-### **Software Engineer — Proclink**  
-📅 *Nov 2024 – Present*  
+### **Software Engineer — Proclink** 
+#### **Marathon Petroleum**
+📅 *Nov 2024 – Present*
 - Developed an **Azure Logic App** to capture user-input data from Excel, store it in a database, and display it seamlessly on the UI.  
 - Designed and deployed **end-to-end interfaces** connecting planning tools with downstream systems to ensure data accuracy and operational efficiency.  
 - Built and maintained **high-performance RESTful APIs** using **C#** and **.NET Core Web API**, following best practices for scalability, security, and maintainability.  
@@ -28,8 +29,9 @@ Software Engineer with **5 years of experience** specializing in **web applicati
 
 ---
 
-### **Software Engineer — ValueMomentum**  
-📅 *Aug 2021 – Nov 2024*  
+### **Software Engineer — ValueMomentum**
+#### **Bamboo Insurance**
+📅 *Aug 2021 – Nov 2024*
 - Developed an **insurance-based product** using APIs, plugins, and third-party integrations for invoicing and collections.  
 - Designed and implemented APIs for communication with the **Socotra Policy Administration System**, enabling seamless policy issuance and servicing.  
 - Built logic for **automated pricing and underwriting approvals** (within 5 seconds) and automated invoice collection, reducing dependency on service teams.  
@@ -42,15 +44,6 @@ Software Engineer with **5 years of experience** specializing in **web applicati
 - Integrated **Twilio** to automate email notifications for insureds and underwriters post-event.  
 - Managed **Jira administration**, **Git branching**, and created detailed technical documentation for internal team use.
   
-<br/><br/>
-
----
-## Personal Project
-### *Facial Emotion Recognition (Python / Computer Vision)*
-- **Developed a real-time computer vision application** using Python and OpenCV to capture, decode, and process live video streams directly from a local webcam.
-- **Implemented facial detection** and localization by utilizing Haar Cascade classifiers to rapidly identify and extract Regions of Interest (ROI) from continuous video frames.
-- **Integrated the DeepFace neural network** library to classify dominant emotions on the fly, rendering predictive text labels and bounding boxes onto the live video feed with minimal latency.
-
 ---
 
 ## EDUCATION  
@@ -62,10 +55,10 @@ Software Engineer with **5 years of experience** specializing in **web applicati
 ## TECHNICAL SKILLS  
 - **Languages:** C#, SQL, JavaScript  
 - **Frameworks:** .NET Core, ASP.NET Web API, Entity Framework  
-- **Cloud Platforms:** Microsoft Azure (Logic Apps, Functions, Key Vault, Event Grid)  
-- **Tools:** Visual Studio, Azure DevOps, Git, Jira, Postman  
-- **Testing:** xUnit, bUnit, NUnit  
-- **Concepts:** RESTful APIs, Asynchronous Programming, CI/CD, Cloud Automation  
+- **Cloud Platforms:** Microsoft Azure (Logic Apps, Functions, Key Vault, Service Bus, Application Insights)  
+- **Tools:** Visual Studio, Azure DevOps, Git, Jira, Postman, Github Copilot, Sonarqube 
+- **Testing:** xUnit, bUnit 
+- **Concepts:** RESTful APIs, Asynchronous Programming, CI/CD, Design Patterns, System Design  
 
 ---
 
