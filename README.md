@@ -25,7 +25,10 @@ Software Engineer with **5 years of experience** specializing in **web applicati
 - Leveraged **Microsoft Azure services** for scalable cloud integrations and backend automation:  
   - **Azure Functions:** Built serverless, event-driven processes to reduce infrastructure overhead.  
   - **Azure Key Vault:** Secured secrets, connection strings, and certificates for improved compliance.  
-  - **Automation:** Combined **Logic Apps**, **Azure Functions** to streamline workflows and reduce manual intervention.  
+  - **Automation:** Combined **Logic Apps**, **Azure Functions** to streamline workflows and reduce manual intervention.
+- Architected and deployed a custom **Model Context Protocol (MCP) server**, enabling autonomous AI agents to interact directly with internal infrastructure.
+- Engineered a seamless integration between **Azure DevOps and AI coding assistants (Claude) using the Azure DevOps .NET Client Libraries**.
+- **Automated the SDLC process** by allowing AI to fetch Product Backlog Item (PBI) acceptance criteria, implement code changes, and independently raise Pull Requests. 
 
 ---
 
