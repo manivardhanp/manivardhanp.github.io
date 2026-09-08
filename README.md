@@ -63,6 +63,6 @@ Software Engineer with **5 years of experience** specializing in **web applicati
 ---
 
 ## ACHIEVEMENTS  
-🏅 **Star of the Month (Dec 2022)** — ValueMomentum  
+🏅 **Star of the Month (Dec 2022)** — *Value Momentum Software Services pvt. Ltd.*  
 📘 Cleared assessments for **Data Structures & Algorithms** and **Databases & SQL** — *Scaler Academy*  
 ☁️ Achieved **Microsoft Certified: Azure Fundamentals (AZ-900)** — Demonstrated foundational knowledge of cloud concepts and Azure services  
