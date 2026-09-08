@@ -10,7 +10,7 @@ Software Engineer with **5 years of experience** specializing in **web applicati
 
 ## WORK EXPERIENCE  
 
-### **Software Engineer — Proclink** 
+### **Software Engineer — Proclink Consulting Services** 
 #### **Marathon Petroleum**
 📅 *Nov 2024 – Present*
 - Developed an **Azure Logic App** to capture user-input data from Excel, store it in a database, and display it seamlessly on the UI.  
@@ -26,13 +26,10 @@ Software Engineer with **5 years of experience** specializing in **web applicati
   - **Azure Functions:** Built serverless, event-driven processes to reduce infrastructure overhead.  
   - **Azure Key Vault:** Secured secrets, connection strings, and certificates for improved compliance.  
   - **Automation:** Combined **Logic Apps**, **Azure Functions** to streamline workflows and reduce manual intervention.
-- Architected and deployed a custom **Model Context Protocol (MCP) server**, enabling autonomous AI agents to interact directly with internal infrastructure.
-- Engineered a seamless integration between **Azure DevOps and AI coding assistants (Claude) using the Azure DevOps .NET Client Libraries**.
-- **Automated the SDLC process** by allowing AI to fetch Product Backlog Item (PBI) acceptance criteria, implement code changes, and independently raise Pull Requests. 
 
 ---
 
-### **Software Engineer — ValueMomentum**
+### **Software Engineer — Value Momentum Software Services pvt. Ltd.**
 #### **Bamboo Insurance**
 📅 *Aug 2021 – Nov 2024*
 - Developed an **insurance-based product** using APIs, plugins, and third-party integrations for invoicing and collections.  
